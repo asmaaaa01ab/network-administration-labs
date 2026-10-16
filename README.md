@@ -103,7 +103,7 @@ network-administration-labs/
 
 ## 📘 Aide-mémoire
 
-Toutes les commandes utilisées sont regroupées dans [`docs/commandes-cisco.pdf`](./docs/commandes-cisco.pdf) : configuration initiale, interfaces, VLAN, routage, DHCP et gestion des fichiers.
+Toutes les commandes utilisées sont regroupées dans [`Commandes.pdf`](./Commandes.pdf) : configuration initiale, interfaces, VLAN, routage, DHCP et gestion des fichiers.
 
 ## 👤 Auteur
 
